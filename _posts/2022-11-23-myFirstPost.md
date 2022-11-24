@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Jekyll true minimal theme"
-date:   2018-01-01 23:22:40 +0300
+title:  "My First Post"
+date:   2022-11-23 10:57:40 +0300
 ---
 
 this is my first post.
