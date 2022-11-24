@@ -1,12 +1,7 @@
 ---
-title: "첫 번째 포스트"
-excerpt: "이건 테스트용"
-
-category:
-	-Blog
-tags:
-	-Blog
-
+layout: post
+title:  "Jekyll true minimal theme"
+date:   2018-01-01 23:22:40 +0300
 ---
 
 this is my first post.
