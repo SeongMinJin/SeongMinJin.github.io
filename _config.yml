@@ -1,12 +1,14 @@
 name: "촉촉한 건빵의 블로그"
 description: "작고 소소한 기록 블로그"
 
-url: '' 
+url: 'https://SeongMinJin.github.io' 
 baseurl: ''
 
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 highlighter: rouge
+
+teaser: "/assets/images/main.png"
 
 kramdown:
   input: GFM
