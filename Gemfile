@@ -1,6 +1,7 @@
 source "https://rubygems.org"
-gemspec
-group :jekyll_plugins do
-	gem "jekyll-feed", "~> 0.6"
-	gem "jekyll-paginate", "~> 1.1.0"  # 추가
-end
+
+# to publish on github page
+gem 'github-pages', group: :jekyll_plugins
+
+# to publich without github page
+#gem "jekyll"
